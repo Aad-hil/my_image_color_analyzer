@@ -1,0 +1,13 @@
+ .image-preview {
+      max-width: 300px;
+      max-height: 300px;
+      margin-top: 20px;
+      display: none;
+    }
+    .color-list {
+      list-style-type: none;
+      padding: 0;
+    }
+    .color-item {
+      margin-bottom: 10px;
+    }
